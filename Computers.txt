@@ -3,3 +3,9 @@ List of topics
 2. Cloud Computing.
 3. Mechine Learning and AI.
 4. Networks.
+5. System Design.
+6. Quantum Computing.
+
+Task To Learn 
+1. Mac Binding.
+2. Design of TCP protocol from scratch.
